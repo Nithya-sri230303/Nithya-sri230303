@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently learning **python , Machine Learning, Data Science**
 
-- 📫 How to reach me **8667588500**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
